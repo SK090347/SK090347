@@ -19,6 +19,9 @@ Building things that feel like **products**, not class projects.
 
 *(Preview is a live tunnel while demo is online; the repo always runs locally with the Quick start below.)*
 
+### Project board
+**[CampusOS — Adamas University](https://github.com/users/SK090347/projects/1)** *(public GitHub Project)*
+
 ### Links
 - **Repo:** [SK090347/CampusOS-Adamas](https://github.com/SK090347/CampusOS-Adamas) *(public)*
 - **Release:** [v2.0.0](https://github.com/SK090347/CampusOS-Adamas/releases/tag/v2.0.0)
