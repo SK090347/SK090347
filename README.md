@@ -72,6 +72,7 @@ Practice      Tests · clean READMEs · releases · public project boards
 | [ts-algorithms](https://github.com/SK090347/ts-algorithms) | Algorithms & data structures in TypeScript + tests |
 | [system-design-notes](https://github.com/SK090347/system-design-notes) | Architecture notes (rate limits, feeds, knowledge layers) |
 | [devtools-kit](https://github.com/SK090347/devtools-kit) | Small, sharp TypeScript CLI utilities |
+| [env-guard](https://github.com/SK090347/env-guard) | Practical CLI: catch missing `.env` keys before runtime |
 
 ---
 
