@@ -4,7 +4,13 @@
   ============================================================ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:C4A574,100:0D1117&height=180&section=header&text=SUMIT%20KUMAR%20TA&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Systems%20Thinker&descAlignY=55&descSize=14&animation=fadeIn" alt="header" width="100%" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SK090347/SK090347/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
 </div>
 
 <br />
