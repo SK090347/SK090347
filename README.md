@@ -73,6 +73,7 @@ Practice      Tests · clean READMEs · releases · public project boards
 | [system-design-notes](https://github.com/SK090347/system-design-notes) | Architecture notes (rate limits, feeds, knowledge layers) |
 | [devtools-kit](https://github.com/SK090347/devtools-kit) | Small, sharp TypeScript CLI utilities |
 | [env-guard](https://github.com/SK090347/env-guard) | Practical CLI: catch missing `.env` keys before runtime |
+| [json-tools](https://github.com/SK090347/json-tools) | JSON utilities: flatten, path ops, merge, diff + tests |
 
 ---
 
