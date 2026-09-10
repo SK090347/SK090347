@@ -33,6 +33,7 @@ I'm **Sumit Kumar Ta** — a product-minded engineer based in **Kolkata**. I bui
 I care about clarity of thought, maintainable TypeScript, tasteful UX, and honest open source. No inflated credentials — the repos, tests, and releases are the résumé.
 
 **Focus areas**
+- Systems from scratch — consensus, storage engines, graphics
 - Full-stack TypeScript products (Next.js, Node, Prisma)
 - Algorithms, data structures, and systems design
 - Interactive / geospatial UX when the problem needs it
@@ -42,9 +43,21 @@ I care about clarity of thought, maintainable TypeScript, tasteful UX, and hones
 
 ---
 
+## Systems & research-caliber builds
+
+*Deep systems work first — for recruiters scanning in under a minute.*
+
+| Project | What it is | Stack / focus |
+|:--------|:-----------|:--------------|
+| [**raft-lab**](https://github.com/SK090347/raft-lab) | Interactive Raft consensus simulator — visualization, fault injection, testable state machine | TypeScript · distributed systems |
+| [**lumen-kv**](https://github.com/SK090347/lumen-kv) | LSM-tree key-value store from scratch — memtable, WAL, SSTables, compaction, Bloom filters | TypeScript · databases / systems |
+| [**photon**](https://github.com/SK090347/photon) | Progressive browser path tracer — Cornell box, BVH, PBR materials | TypeScript · Canvas · computer graphics |
+
+---
+
 ## Featured work
 
-*Equal weight across product, systems, algorithms, tooling, and notes.*
+*Equal weight across product, algorithms, tooling, and notes.*
 
 | Project | What it is | Stack / focus |
 |:--------|:-----------|:--------------|
