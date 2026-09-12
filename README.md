@@ -49,7 +49,7 @@ I care about clarity of thought, maintainable code across languages, tasteful UX
 
 ## Systems & multi-language builds
 
-*Deep systems work first — for recruiters scanning in under a minute.*
+*Deep systems work first — for recruiters scanning in under a minute. Governing equations & complexity are documented in each repo README (`$…$` / `$$…$$`).*
 
 | Project | What it is | Stack / focus |
 |:--------|:-----------|:--------------|
