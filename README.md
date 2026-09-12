@@ -18,7 +18,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SK090347-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SK090347)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sk090347.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://sk090347.github.io/)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://temporary-flying-draco-q9op59z.vercel.app)
+[![Portfolio Hub](https://img.shields.io/badge/Hub-sk090347.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://sk090347.github.io/)
 [![Email](https://img.shields.io/badge/Email-tasumitkumar47%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasumitkumar47@gmail.com)
 [![Location](https://img.shields.io/badge/Kolkata-0D1117?style=flat-square&logo=googlemaps&logoColor=C4A574)](https://github.com/SK090347)
 [![License](https://img.shields.io/badge/Open%20Source-MIT%20%2F%20Apache--2.0-3DA639?style=flat-square)](./LICENSES.md)
@@ -33,6 +34,7 @@ I'm **Sumit Kumar Ta** — a product-minded engineer based in **Kolkata**. I bui
 
 I care about clarity of thought, maintainable code across languages, tasteful UX, and honest open source. No inflated credentials — the repos, tests, and releases are the résumé.
 
+**Live portfolio (3D)** → [temporary-flying-draco-q9op59z.vercel.app](https://temporary-flying-draco-q9op59z.vercel.app)  
 **Portfolio hub** → [sk090347.github.io](https://sk090347.github.io/)
 
 **Focus areas**
@@ -69,6 +71,7 @@ I care about clarity of thought, maintainable code across languages, tasteful UX
 
 | Project | What it is | Stack / focus |
 |:--------|:-----------|:--------------|
+| [**portfolio**](https://github.com/SK090347/portfolio) | Interactive 3D personal site — WebGL black-hole hero · [live](https://temporary-flying-draco-q9op59z.vercel.app) | Next.js · WebGL · Vercel |
 | [**CampusOS-Adamas**](https://github.com/SK090347/CampusOS-Adamas) | Campus digital OS — search → understand → navigate → act | Next.js · Prisma · Leaflet/OSM |
 | [**horizon-drift**](https://github.com/SK090347/horizon-drift) | Browser endless open-world 3D driving sandbox | Three.js · Rapier · Vite |
 | [**leetcode**](https://github.com/SK090347/leetcode) | Hard LeetCode solutions — patterns, complexity, CI | TypeScript · Vitest |
