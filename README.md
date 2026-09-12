@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Engineer+%C2%B7+Builder+%C2%B7+Systems+thinker;TypeScript+%C2%B7+full-stack+%C2%B7+open+source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Engineer+%C2%B7+Builder+%C2%B7+Systems+thinker;C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,6 +18,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SK090347-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SK090347)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sk090347.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://sk090347.github.io/)
 [![Email](https://img.shields.io/badge/Email-tasumitkumar47%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasumitkumar47@gmail.com)
 [![Location](https://img.shields.io/badge/Kolkata-0D1117?style=flat-square&logo=googlemaps&logoColor=C4A574)](https://github.com/SK090347)
 [![License](https://img.shields.io/badge/Open%20Source-MIT%20%2F%20Apache--2.0-3DA639?style=flat-square)](./LICENSES.md)
@@ -30,10 +31,13 @@
 
 I'm **Sumit Kumar Ta** — a product-minded engineer based in **Kolkata**. I build typed, end-to-end systems and ship them in public.
 
-I care about clarity of thought, maintainable TypeScript, tasteful UX, and honest open source. No inflated credentials — the repos, tests, and releases are the résumé.
+I care about clarity of thought, maintainable code across languages, tasteful UX, and honest open source. No inflated credentials — the repos, tests, and releases are the résumé.
+
+**Portfolio hub** → [sk090347.github.io](https://sk090347.github.io/)
 
 **Focus areas**
-- Systems from scratch — consensus, storage engines, graphics
+- Systems from scratch — consensus, storage engines, solvers, simulation, graphics
+- Multi-language cores (C++ / Python / TypeScript / Java) with clear boundaries
 - Full-stack TypeScript products (Next.js, Node, Prisma)
 - Algorithms, data structures, and systems design
 - Interactive / geospatial UX when the problem needs it
@@ -43,7 +47,7 @@ I care about clarity of thought, maintainable TypeScript, tasteful UX, and hones
 
 ---
 
-## Systems & research-caliber builds
+## Systems & multi-language builds
 
 *Deep systems work first — for recruiters scanning in under a minute.*
 
@@ -52,6 +56,10 @@ I care about clarity of thought, maintainable TypeScript, tasteful UX, and hones
 | [**raft-lab**](https://github.com/SK090347/raft-lab) | Interactive Raft consensus simulator — visualization, fault injection, testable state machine | TypeScript · distributed systems |
 | [**lumen-kv**](https://github.com/SK090347/lumen-kv) | LSM-tree key-value store from scratch — memtable, WAL, SSTables, compaction, Bloom filters | TypeScript · databases / systems |
 | [**photon**](https://github.com/SK090347/photon) | Progressive browser path tracer — Cornell box, BVH, PBR materials | TypeScript · Canvas · computer graphics |
+| [**satforge**](https://github.com/SK090347/satforge) | CDCL SAT solver — core engine, harness, and web playground | C++ · Python · TypeScript |
+| [**nbody-orbit**](https://github.com/SK090347/nbody-orbit) | High-performance N-body gravity simulator — core, analysis, visualization | C++ · Python · JavaScript |
+| [**alignx**](https://github.com/SK090347/alignx) | Smith-Waterman sequence alignment — engine, reference, CLI | C++ · Java · Python |
+| [**wavefield**](https://github.com/SK090347/wavefield) | 2D acoustic / EM wave FDTD simulator — kernel + browser viz | Python · C++ · TypeScript |
 
 ---
 
@@ -74,9 +82,11 @@ I care about clarity of thought, maintainable TypeScript, tasteful UX, and hones
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -146,6 +156,7 @@ Full map → [LICENSES.md](./LICENSES.md)
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sk090347.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://sk090347.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-SK090347-181717?style=for-the-badge&logo=github)](https://github.com/SK090347)
 [![Email](https://img.shields.io/badge/Email-tasumitkumar47%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasumitkumar47@gmail.com)
 
