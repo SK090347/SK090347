@@ -23,7 +23,7 @@ I'm **Sumit Kumar Ta** — first-year CSE (AI/ML) at **Adamas University**, base
 
 Repos + tests are the résumé. No invented affiliations.
 
-**Live portfolio** → [temporary-flying-draco-q9op59z.vercel.app](https://sk090347.github.io/portfolio/)  
+**Live portfolio** → [sk090347.github.io/portfolio](https://sk090347.github.io/portfolio/)  
 **Hub** → [sk090347.github.io](https://sk090347.github.io/)
 
 Things I spend time on:
