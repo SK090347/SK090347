@@ -30,7 +30,6 @@ Things I spend time on:
 - Systems from scratch (VMs, autodiff, B+ trees, Raft, LSM, SAT, sim, graphics)
 - Multi-language cores with a clear boundary between engines and harnesses
 - Full-stack TypeScript when the problem is a product (CampusOS, this site)
-- Hard LeetCode notes with tests so the patterns stick
 
 ---
 
@@ -57,11 +56,8 @@ Things I spend time on:
 |:--------|:-----------|:------|
 | [**portfolio**](https://github.com/SK090347/portfolio) | 3D personal site · [live](https://temporary-flying-draco-q9op59z.vercel.app) | Next.js · WebGL |
 | [**CampusOS-Adamas**](https://github.com/SK090347/CampusOS-Adamas) | Campus app — search, maps, knowledge layer | Next.js · Prisma · OSM |
-| [**horizon-drift**](https://github.com/SK090347/horizon-drift) | Endless browser driving sandbox | Three.js · Rapier |
-| [**leetcode**](https://github.com/SK090347/leetcode) | Hard problem notes with Vitest | TypeScript |
 | [**ts-algorithms**](https://github.com/SK090347/ts-algorithms) | Small DS&A library | TypeScript |
 | [**devtools-kit**](https://github.com/SK090347/devtools-kit) | Tiny CLI helpers (`dtk`) | TypeScript |
-| [**system-design-notes**](https://github.com/SK090347/system-design-notes) | Architecture sketches | Markdown |
 
 ---
 
