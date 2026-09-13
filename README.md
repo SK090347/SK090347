@@ -10,7 +10,7 @@
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://temporary-flying-draco-q9op59z.vercel.app)
 [![Hub](https://img.shields.io/badge/Hub-sk090347.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://sk090347.github.io/)
-[![Email](https://img.shields.io/badge/Email-tasumitkumar47%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasumitkumar47@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tasumitkumar36%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasumitkumar36@gmail.com)
 [![Kolkata](https://img.shields.io/badge/Kolkata-0D1117?style=flat-square)](https://github.com/SK090347)
 
 </div>
@@ -94,6 +94,6 @@ Most code **MIT** and/or **Apache-2.0**. Details → [LICENSES.md](./LICENSES.md
 
 ## Connect
 
-[Live portfolio](https://temporary-flying-draco-q9op59z.vercel.app) · [Hub](https://sk090347.github.io/) · [GitHub](https://github.com/SK090347) · [Email](mailto:tasumitkumar47@gmail.com)
+[Live portfolio](https://temporary-flying-draco-q9op59z.vercel.app) · [Hub](https://sk090347.github.io/) · [GitHub](https://github.com/SK090347) · [Email](mailto:tasumitkumar36@gmail.com)
 
 Building in public from Kolkata.
