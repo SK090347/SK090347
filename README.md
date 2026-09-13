@@ -27,7 +27,7 @@ Repos + tests are the résumé. No invented affiliations.
 **Hub** → [sk090347.github.io](https://sk090347.github.io/)
 
 Things I spend time on:
-- Systems from scratch (Raft, LSM, SAT, N-body, FDTD, path tracing)
+- Systems from scratch (VMs, autodiff, B+ trees, Raft, LSM, SAT, sim, graphics)
 - Multi-language cores with a clear boundary between engines and harnesses
 - Full-stack TypeScript when the problem is a product (CampusOS, this site)
 - Hard LeetCode notes with tests so the patterns stick
@@ -38,6 +38,9 @@ Things I spend time on:
 
 | Project | What it is | Stack |
 |:--------|:-----------|:------|
+| [**stackvm**](https://github.com/SK090347/stackvm) | Tiny bytecode stack VM + .svm assembler | TypeScript |
+| [**gradtape**](https://github.com/SK090347/gradtape) | Reverse-mode autodiff tape + tiny MLP | TypeScript |
+| [**leafstore**](https://github.com/SK090347/leafstore) | On-disk B+ tree KV — pages, insert/get/range | TypeScript |
 | [**raft-lab**](https://github.com/SK090347/raft-lab) | Raft simulator you can crash and partition | TypeScript |
 | [**lumen-kv**](https://github.com/SK090347/lumen-kv) | LSM KV — memtable, WAL, SST, compaction, Bloom | TypeScript |
 | [**photon**](https://github.com/SK090347/photon) | Progressive browser path tracer | TypeScript · Canvas |
