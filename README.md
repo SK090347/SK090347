@@ -47,6 +47,19 @@ I care about clarity of thought, maintainable code across languages, tasteful UX
 
 ---
 
+## Apps
+
+*Ship-ready static web apps — try Live first.*
+
+| App | What it is | Live |
+|:----|:-----------|:-----|
+| [**lucid-calc**](https://github.com/SK090347/lucid-calc) | Glass calculator — basic & scientific, keyboard, history | [Open →](https://sk090347.github.io/lucid-calc/) |
+| [**inkpad**](https://github.com/SK090347/inkpad) | Local notes — Markdown preview, search, autosave | [Open →](https://sk090347.github.io/inkpad/) |
+| [**daypulse**](https://github.com/SK090347/daypulse) | Tasks + Pomodoro 25/5 + daily habits dashboard | [Open →](https://sk090347.github.io/daypulse/) |
+
+
+---
+
 ## Systems & multi-language builds
 
 *Deep systems work first — for recruiters scanning in under a minute. Governing equations & complexity are documented in each repo README (`$…$` / `$$…$$`).*
@@ -65,13 +78,13 @@ I care about clarity of thought, maintainable code across languages, tasteful UX
 
 ## Featured work
 
-*Equal weight across product, algorithms, tooling, and notes.*
+*Apps lead above; equal weight here across product, algorithms, tooling, and notes.*
 
 | Project | What it is | Stack / focus |
 |:--------|:-----------|:--------------|
-| [**lucid-calc**](https://github.com/SK090347/lucid-calc) | Premium glass calculator — basic & scientific, keyboard, history | HTML · CSS · JS · [Live](https://sk090347.github.io/lucid-calc/) |
-| [**inkpad**](https://github.com/SK090347/inkpad) | Minimalist local notes — Markdown preview, search, autosave | HTML · CSS · JS · [Live](https://sk090347.github.io/inkpad/) |
-| [**daypulse**](https://github.com/SK090347/daypulse) | Tasks + Pomodoro 25/5 + daily habits dashboard | HTML · CSS · JS · [Live](https://sk090347.github.io/daypulse/) |
+| [**lucid-calc**](https://github.com/SK090347/lucid-calc) | Glass calculator — basic & scientific, keyboard, history | HTML · CSS · JS · **[Live](https://sk090347.github.io/lucid-calc/)** |
+| [**inkpad**](https://github.com/SK090347/inkpad) | Local notes — Markdown preview, search, autosave | HTML · CSS · JS · **[Live](https://sk090347.github.io/inkpad/)** |
+| [**daypulse**](https://github.com/SK090347/daypulse) | Tasks + Pomodoro 25/5 + daily habits | HTML · CSS · JS · **[Live](https://sk090347.github.io/daypulse/)** |
 | [**CampusOS-Adamas**](https://github.com/SK090347/CampusOS-Adamas) | Campus digital OS — search → understand → navigate → act | Next.js · Prisma · Leaflet/OSM |
 | [**horizon-drift**](https://github.com/SK090347/horizon-drift) | Browser endless open-world 3D driving sandbox | Three.js · Rapier · Vite |
 | [**leetcode**](https://github.com/SK090347/leetcode) | Hard LeetCode solutions — patterns, complexity, CI | TypeScript · Vitest |
